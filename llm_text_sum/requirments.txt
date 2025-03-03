@@ -1,5 +1,0 @@
-streamlit
-transformers
-torch
-PyPDF2
-rouge-score
